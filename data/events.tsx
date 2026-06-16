@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 25, events: [
+    { date: "2026-06-15 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-06-16 20:00+08:00", type: "game", title: "活侠传", },
+    { date: "2026-06-17 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-06-18 20:00+08:00", type: "watch", title: "我流推荐", },
+    { date: "2026-06-19 20:00+08:00", type: "watch", title: "楚汉传奇", },
+    { date: "2026-06-20 19:00+08:00", type: "watch", title: "恐怖片来袭", },
+    { date: "2026-06-21 19:00+08:00", type: "game", title: "GAMETIME", },
+  ] },
+
   { year: 2026, week: 24, bilibili_url: "1211895266817343494", events: [
     { date: "2026-06-08 20:00+08:00", type: "rest", title: "", },
     { date: "2026-06-09 20:00+08:00", type: "watch", title: "楚汉传奇", },
@@ -64,7 +74,7 @@ export const events: WeekItem[] = [
 
   { year: 2026, week: 21, events: [
     { date: "2026-05-18 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-05-19 20:00+08:00", type: "radio", title: "吃了吗！", rec: "BV1csLz6WEAC" },
+    { date: "2026-05-19 20:00+08:00", type: "chat", title: "吃了吗！", rec: "BV1csLz6WEAC" },
     { date: "2026-05-20 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-21 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-22 20:00+08:00", type: "rest", title: "", },
