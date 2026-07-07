@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 28, events: [
+    { date: "2026-07-06 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-07-07 20:00+08:00", type: "watch", title: "楚汉传奇", },
+    { date: "2026-07-08 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-07-09 20:00+08:00", type: "game", title: "活侠传", },
+    { date: "2026-07-10 20:00+08:00", type: "watch", title: "假面骑士zzz", },
+    { date: "2026-07-11 15:00+08:00", type: "special", title: "BW互动", },
+    { date: "2026-07-12 19:00+08:00", type: "chat", title: "BW后日谈", },
+  ] },
+
   { year: 2026, week: 27, bilibili_url: "1219648279791271945", events: [
     { date: "2026-06-29 20:00+08:00", type: "rest", title: "", },
     { date: "2026-06-30 20:00+08:00", type: "watch", title: "楚汉传奇", },
