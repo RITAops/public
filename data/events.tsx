@@ -59,7 +59,7 @@ export const events: WeekItem[] = [
     { date: "2026-07-23 20:00+08:00", type: "game", title: "养女儿", },
     { date: "2026-07-24 20:00+08:00", type: "game", title: "GAME TIME", },
     { date: "2026-07-25 19:00+08:00", type: "watch", title: "黑泽君 ( ", },
-    { date: "2026-07-26 19:00+08:00", type: "sing", title: "歌回来袭", },
+    { date: "2026-07-26 19:00+08:00", type: "sing", title: "歌回来袭", cancelled: true, reason: "https://www.bilibili.com/opus/1229309684160135190" },
   ] },
 
   { year: 2026, week: 29, bilibili_url: "1224886739691110401", events: [
