@@ -59,7 +59,7 @@ export const events: WeekItem[] = [
     { date: "2026-07-30 20:00+08:00", type: "game", title: "绿宝我的绿宝", },
     { date: "2026-07-31 20:00+08:00", type: "game", title: "GAMETIME", },
     { date: "2026-08-01 19:00+08:00", type: "watch", title: "看会儿0.0", },
-    { date: "2026-08-02 19:00+08:00", type: "rest", title: "ZZZZZZZZZ", },
+    { date: "2026-08-02 19:00+08:00", type: "watch", title: "ZZZZZZZZZ", },
   ] },
 
   { year: 2026, week: 30, bilibili_url: "1227473362290212896", events: [
