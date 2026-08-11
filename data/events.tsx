@@ -52,7 +52,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2026, week: 32, events: [
+  { year: 2026, week: 32, bilibili_url: "1232682320110026772", events: [
     { date: "2026-08-03 20:00+08:00", type: "rest", title: "", },
     { date: "2026-08-04 20:00+08:00", type: "chat", title: "助手!老婆!", },
     { date: "2026-08-05 20:00+08:00", type: "rest", title: "", },
