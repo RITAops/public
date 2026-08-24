@@ -126,7 +126,7 @@ export const events: WeekItem[] = [
     { date: "2026-06-29 20:00+08:00", type: "rest", title: "", },
     { date: "2026-06-30 20:00+08:00", type: "watch", title: "楚汉传奇", rec: "BV1yHTc6aEgG" },
     { date: "2026-07-01 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-07-02 20:00+08:00", type: "game", title: "活侠传", rec: "BV1LhTb6cEz9", steam: 1859910 },
+    { date: "2026-07-02 20:00+08:00", type: "game", title: "活侠传", steam: 1859910 },
     { date: "2026-07-03 14:00+08:00", type: "chat", title: "午间奶茶店", rec: "BV1LhTb6cEz9", },
     { date: "2026-07-04 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1bmMA6jEPq" },
     { date: "2026-07-05 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1MXTy6cEUR" , steam: 1859910},
